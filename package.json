@@ -1,0 +1,24 @@
+{
+  "name": "packer",
+  "version": "1.0.0",
+  "description": "A datapack transpiled language.",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx xo --fix",
+    "prepare": "husky install"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Wyatt-Stanke/packer.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Wyatt-Stanke/packer/issues"
+  },
+  "homepage": "https://github.com/Wyatt-Stanke/packer#readme",
+  "devDependencies": {
+    "husky": "^7.0.4",
+    "xo": "^0.46.4"
+  }
+}
